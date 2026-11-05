@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-presets-dart-mobile",
+  "capabilityKey": "liberusoftware/music-presets",
+  "presentation": "dart-mobile",
+  "package": "module_music_presets_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/music/nextjs/presets.md",
+  "presentationPlan": "projects/music/features/presets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
